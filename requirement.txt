@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+passlib
+bcrypt==3.2.2
